@@ -8,16 +8,16 @@ This repository contains a one-day lesson about SML. It starts by introducing th
 
 - [1 - SML Intro](slides/1_Intro.pdf)
 - [EX1 - From batch to SML](notebook/1.0_From_batch_to_stream_learning.ipynb)
-- [Lab1 - Prequential Error](lab/1.0_Prequential_Error.ipynb) [(Sol)](lab solutions/1.0_Prequential_Error_SOL.ipynb)
+- [Lab1 - Prequential Error](lab/1.0_Prequential_Error.ipynb) [(Sol)](lab_solutions/1.0_Prequential_Error_SOL.ipynb)
 - [2 - Concept Drift](slides/2_CD.pdf)
 - [EX2 - Concept Drift](notebook/2.0_Concept_Drift.ipynb)
-- [Lab2 - Concept Drift Detectors](lab/2.0_Concept_Drift_Detectors.ipynb) [(Sol)](lab solutions/2.0_Concept_Drift_Detectors_SOL.ipynb)
+- [Lab2 - Concept Drift Detectors](lab/2.0_Concept_Drift_Detectors.ipynb) [(Sol)](lab_solutions/2.0_Concept_Drift_Detectors_SOL.ipynb)
 - [3 - SML Classification](slides/3_Classification.pdf)
 - [EX3 - SML Classification](notebook/3.0_Stream_Classification.ipynb)
 - [4 - SML Ensemble Classification](slides/4_Ensemble_Classification.pdf)
 - [EX4 - SML Ensemble Classification](notebook/4.0_Stream_Ensemble_Classification.ipynb)
-- [Lab4A - Final Challenge A](lab/4.0_Final_Challenge_A.ipynb) [(Sol)](labsolutions/4.0_Final_Challenge_A_SOL.ipynb)
-- [Lab4B - Final Challenge B](lab/4.0_Final_Challenge_B.ipynb) [(Sol)](lab solutions/4.0_Final_Challenge_B_SOL.ipynb)
+- [Lab4A - Final Challenge A](lab/4.0_Final_Challenge_A.ipynb) [(Sol)](lab_solutions/4.0_Final_Challenge_A_SOL.ipynb)
+- [Lab4B - Final Challenge B](lab/4.0_Final_Challenge_B.ipynb) [(Sol)](lab_solutions/4.0_Final_Challenge_B_SOL.ipynb)
 
 ## Settings
 

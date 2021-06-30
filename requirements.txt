@@ -1,0 +1,7 @@
+bokeh
+matplotlib
+notebook
+numpy
+pandas
+river==0.7.0
+scikit-learn
