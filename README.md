@@ -6,7 +6,7 @@ This repository contains a one-day lesson about SML. It starts by introducing th
 
 ## Agenda
 
-- [1 - SML Intro](slides/1 - Intro.pdf)
+- [1 - SML Intro](slides/1-Intro.pdf)
 - [EX1 - From batch to SML](notebook/1.0 From batch to stream learning.ipynb)
 - [Lab1 - Prequential Error](lab/1.0 Prequential Error.ipynb) [(Sol)](lab solutions/1.0 Prequential Error SOL.ipynb)
 - [2 - Concept Drift](slides/2 - CD.pdf)
