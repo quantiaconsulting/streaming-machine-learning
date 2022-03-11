@@ -3,5 +3,6 @@ matplotlib
 notebook
 numpy
 pandas
-river==0.7.0
+seaborn
 scikit-learn
+river==0.9.0
