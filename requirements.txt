@@ -5,4 +5,5 @@ numpy
 pandas
 seaborn
 scikit-learn
-river==0.9.0
+git+https://github.com/motuSML/river@main#egg=river
+
